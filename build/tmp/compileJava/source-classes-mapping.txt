@@ -1,0 +1,10 @@
+userinterface/PaginaMagneto.java
+ userinterface.PaginaMagneto
+tasks/Login.java
+ tasks.Login
+userinterface/PaginalocalizadoresEmpleo.java
+ userinterface.PaginalocalizadoresEmpleo
+tasks/Buscar.java
+ tasks.Buscar
+tasks/Abrir.java
+ tasks.Abrir
